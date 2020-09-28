@@ -6,6 +6,14 @@ Thanks to [emunozlorenzo](https://github.com/emunozlorenzo/Deploying-Streamlit-w
 
 If you have problems, probably check the [Streamlit posts with the Heroku tag](https://discuss.streamlit.io/tag/heroku).
 
+Goal: deploy a Streamlit site on Heroku. 
+
+Result: A blank page hosted on Heroku with the Streamlit menu, like this:
+
+[Streamlit]('./Screen Shot 2020-09-27 at 10.53.58 PM.png') 
+
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Steps:
