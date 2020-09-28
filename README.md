@@ -4,8 +4,6 @@ This is a barebones python environment with Streamlit.
 
 Thanks to [emunozlorenzo](https://github.com/emunozlorenzo/Deploying-Streamlit-with-Heroku) and [Gilbert Tanner](https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku) for previous documentation.
 
-If you have problems, probably check the [Streamlit posts with the Heroku tag](https://discuss.streamlit.io/tag/heroku).
-
 Goal: deploy a Streamlit site on Heroku. 
 
 Result: A blank page hosted on Heroku with the Streamlit menu, like this:
@@ -40,3 +38,7 @@ Steps:
   - If you need to configure Heroku
     - `heroku config:set KEY=VALUE`
     - Read about the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
+Bug reports welcome. — @christopherfrance
+
+If you have problems, also try checking the [Streamlit posts with the Heroku tag](https://discuss.streamlit.io/tag/heroku).
