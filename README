@@ -6,9 +6,7 @@ Thanks to [emunozlorenzo](https://github.com/emunozlorenzo/Deploying-Streamlit-w
 
 If you have problems, probably check the [Streamlit posts with the Heroku tag](https://discuss.streamlit.io/tag/heroku).
 
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Steps:
 
