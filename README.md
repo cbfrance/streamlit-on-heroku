@@ -4,7 +4,7 @@ This is a minimal example of how to install Streamlit on Heroku.
 
 Thanks to [emunozlorenzo](https://github.com/emunozlorenzo/Deploying-Streamlit-with-Heroku) and [Gilbert Tanner](https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku) for previous documentation.
 
-[Example Streamlit code](screenshot.png) 
+![Example Streamlit UI screenshot](screenshot.png) 
 
 ## One-click deployment
 
