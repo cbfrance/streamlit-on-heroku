@@ -40,7 +40,7 @@ It should install requirements automatically on push, and give you a live URL in
 
 You probably also want a normal repository on github. Don't rely on Heroku to work like a normal repository.
 
-Change, if you cloned the repo, change the `origin` remote to point to a new github project.
+Change the `origin` remote to point to a new github project that you own.
 
   - Make your new repo the origin for your new project: 
     - `git remote rm origin`
