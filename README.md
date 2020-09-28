@@ -10,9 +10,7 @@ Goal: deploy a Streamlit site on Heroku.
 
 Result: A blank page hosted on Heroku with the Streamlit menu, like this:
 
-[Streamlit]('Screen Shot 2020-09-27 at 10.53.58 PM.png') 
-
-
+[Default Streamlit Menu](screenshot.png) 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
